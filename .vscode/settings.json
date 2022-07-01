@@ -5,8 +5,8 @@
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.singleQuote": true,
-  "prettier.arrowParens": "avoid",
-  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "always",
+  "prettier.jsxSingleQuote": false,
   "prettier.jsxBracketSameLine": false,
-  "prettier.trailingComma": "none"
+  "prettier.trailingComma": "es5"
 }
